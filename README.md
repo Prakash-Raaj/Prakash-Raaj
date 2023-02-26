@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prakash-Raaj
 - 👀 I’m interested in developing websites 
-- 🌱 I’m currently and continuously learning and working with ReactJS 
+- 🌱 I’m continuously learning and working with ReactJS 
 - 💞️ I’m looking to collaborate on works that include front end development
 - 📫 How to reach me - mailID:prakashraaj7996@gmail.com
 
