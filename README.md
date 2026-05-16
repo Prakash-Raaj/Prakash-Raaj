@@ -6,9 +6,9 @@
 
 *I turn complex problems into clean, fast, production-ready web experiences.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakash-raaj-vasudevan/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakashraaj7996@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prakash-raaj.github.io/portfolio/)
 
 </div>
 
@@ -73,7 +73,7 @@ const prakash = {
 
 ## 🔦 Featured Projects
 
-### 🤖 [Event Discovery Chatbot](https://github.com/YOUR_USERNAME/event-chatbot)
+### 🤖 [Event Discovery Chatbot](https://github.com/Prakash-Raaj/event-chatbot)
 > RAG-based tech event discovery powered by **Llama 3.1**
 
 Built with GitHub Copilot · Scrapes Eventbrite, Meetup & Lanyrd · Location-aware recommendations · Chat interface
@@ -104,9 +104,9 @@ Custom pagination with range-based navigation · Reduced DB load significantly
 
 <div align="center">
 
-![Prakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&hide_border=true&count_private=true)
+![Prakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prakash-Raaj&show_icons=true&theme=react&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash-Raaj&layout=compact&theme=react&hide_border=true)
 
 </div>
 
