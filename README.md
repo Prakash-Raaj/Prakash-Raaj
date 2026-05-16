@@ -104,9 +104,9 @@ Custom pagination with range-based navigation · Reduced DB load significantly
 
 <div align="center">
 
-![Prakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prakash-Raaj&show_icons=true&theme=react&hide_border=true&count_private=true)
+![Prakash's GitHub Stats](https://streak-stats.demolab.com?user=Prakash-Raaj&theme=react&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash-Raaj&layout=compact&theme=react&hide_border=true)
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prakash-Raaj&theme=default)
 
 </div>
 
