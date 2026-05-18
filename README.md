@@ -133,3 +133,5 @@ If you're building something interesting with React, TypeScript, or AI — I'd l
 *"I write code the same way I read it — for humans first."*
 
 </div>
+
+<a href="https://app.daily.dev/prakashraaj41"><img src="https://api.daily.dev/devcards/v2/6k0hDHUueUKznEzg4bTXn.png?r=wdd" width="356" alt="Prakash Raaj's Dev Card"/></a>
